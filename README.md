@@ -1,4 +1,4 @@
-# easeui-ios
+# fuckeaseui-ios
 
 
 环信iOS easeui  CocoaPod repo
